@@ -2,6 +2,18 @@
     "format": 1,
     "games": [
         {
+            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/hi3/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/genshin/manifest.json",
+            "featured": true
+        },
+        {
+            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/hsr/manifest.json",
+            "featured": true
+        },
+        {
             "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/zenless-zone-zero/manifest.json",
             "featured": true
         },
